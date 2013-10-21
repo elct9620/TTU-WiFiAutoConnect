@@ -1,6 +1,2 @@
-user=
-password=
-
-# DEVELOPER ONLY, DO NOT MODIFY THE FOLLOWING CODE!!
-url=https://securelogin.arubanetworks.com/cgi-bin/login
-params="user=$user&password=$password&cmd=authenticate&Login=Log+In"
+AVAILABLE_SCHOOL=(ttu mcu)
+SCHOOL_CHINESE=(大同大學 銘傳大學)
